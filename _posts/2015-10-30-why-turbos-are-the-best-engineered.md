@@ -1,14 +1,10 @@
 ---
-author:
-  - name: /DRIVE
-    url: 'https://www.youtube.com/user/drive'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=mH0vq7QwlRs'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - 1000hp
   - 039
 description: 'Learn on Monday, wrench smarter on Sunday. Introducing a NEW series on /DRIVE, aimed at educating you to build a faster, better, more reliable car: /ENGINEERED. We want to empower our fellow enthusiasts to know more, and do more, by learning from some of the best engineers in the game.'
-inLanguage: en
+datePublished: '2015-10-30T23:12:33.731Z'
+dateModified: '2015-10-30T23:12:30.515Z'
+author:
+  - name: /DRIVE
+    url: 'https://www.youtube.com/user/drive'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=mH0vq7QwlRs&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=mH0vq7QwlRs&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=mH0vq7QwlRs'
 title: Why Turbos Are The Best - /ENGINEERED
-datePublished: '2015-10-30T23:07:23.161Z'
-dateModified: '2015-10-30T23:04:37.621Z'
 sourcePath: _posts/2015-10-30-why-turbos-are-the-best-engineered.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
